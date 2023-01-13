@@ -1,0 +1,3 @@
+Hola, este es un fichero de prueba
+Esta es otra linea de texto
+Espero que se guarde correctamente
